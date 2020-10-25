@@ -1,6 +1,6 @@
-# Creates a calendar that lets you save events from 9am-5pm on each day. It also color codes time slots by past, present, and future.
+## Creates a calendar that lets you save events from 9am-5pm on each day. It also color codes time slots by past, present, and future.
 
-Note: Grey=Past<br>&ensp;&ensp;&ensp;&emsp;&thinsp;Red=Present<br>&ensp;&ensp;&ensp;&emsp;&thinsp;Green=Future
+Note: Grey is for the Past<br>&ensp;&ensp;&ensp;&emsp;&thinsp;Red is for the Present<br>&ensp;&ensp;&ensp;&emsp;&thinsp;Green is for the Future
 
 
 Link to application: https://oezekwe.github.io/work-day-scheduler/
