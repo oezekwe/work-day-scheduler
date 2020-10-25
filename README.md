@@ -5,4 +5,4 @@ Note: Grey=Past<br>&ensp;&ensp;&ensp;&emsp;&thinsp;Red=Present<br>&ensp;&ensp;&e
 
 Link to application: https://oezekwe.github.io/work-day-scheduler/
 
-Screenshot-
+Screenshot: <img src="https://user-images.githubusercontent.com/14321730/97109470-65e53d00-16a1-11eb-9e41-49f86d2749cb.jpg">
